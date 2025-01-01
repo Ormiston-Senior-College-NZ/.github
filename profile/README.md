@@ -11,7 +11,7 @@ If you’ve landed on this page, chances are you’re looking for your GitHub Cl
 - **📤 Push to GitHub**: Once you’re done, push your work back to GitHub for submission.
 
 ## 🤝 Want to Contribute?
-💡 **Students**, if you have an idea or resource that could benefit others, why not contribute to this organization? Whether it’s a helpful script, a guide, or an example project, your contributions can make a difference for current and future students. Reach out to your teacher to discuss how you can get involved!
+**Students**, if you have an idea or resource that could benefit others, why not contribute to this organization? Whether it’s a helpful script, a guide, or an example project, your contributions can make a difference for current and future students. Reach out to your teacher to discuss how you can get involved!
 
 
 
