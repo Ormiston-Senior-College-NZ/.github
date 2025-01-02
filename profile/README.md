@@ -16,7 +16,7 @@ If you’ve landed on this page, chances are you’re looking for your GitHub Cl
 
 
 ## ❓ Need Help?
-If you’re unsure about how to access or work with your repository, reach out to your teacher or refer to the course materials provided in class.
+If you’re unsure about how to access or work with your repository, reach out to your teacher or refer to the course materials provided in class. Otherwise, you can use the Discussions tab to ask questions on this School's GitHub page.
 
 ✨ Happy coding!
 
